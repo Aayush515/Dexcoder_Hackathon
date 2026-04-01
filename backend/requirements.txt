@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+pdfplumber
+pandas
+openpyxl
+anthropic
+httpx
+python-dotenv
+weasyprint
+jinja2
